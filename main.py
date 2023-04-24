@@ -1,6 +1,6 @@
 # Margarita Chistiakova
-# 3/1/2023
-# Person Class + Student Class
+# 3/1/2023 
+# Person Class + Student Class 
 
 from Student import Student
 from Person import Person
