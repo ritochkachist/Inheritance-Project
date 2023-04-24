@@ -1,0 +1,5 @@
+You will need to finish the Person and Student classes that were outlined in the class discussion.  The Person class should include first, last, and ssn as its attributes.  The functions of the Person class should include constructor, repr, get and set for all attributes.  I have given you some code for the Person class, but it is not complete.
+
+The Student class should inherit the Person class.  The additional attributes for Student include an id number and a major.  You will also need to write the constructor, repr function, and get and set for all additional attributes (just id and major).
+
+For your main program, please create a Student object and show me that it prints correctly.
